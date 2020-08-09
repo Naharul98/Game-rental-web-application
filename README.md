@@ -1,18 +1,14 @@
 # Game-rental-web-application
 
 ## Website URL and Staff Area Login
-- Website URL Link - http://seg-2018-cardinal.dx.am/public/game_area/pages/home.php
+- Website URL Link for demonstration - http://seg-2018-cardinal.dx.am/public/game_area/pages/home.php
 
 ### Staff Area Login Credentials
 - Secretary = Username - naharul, Password - 123456789
 - Volunteer = Username - eugene, Password - 123456789
 
-### Database Schema file path
-- /LabProject/setup.sql
-
 ### Resources and Frameworks Used
-- Bootstrap 4.0.0 (assist the styling)
-- validation_functions.php and functions.php file from the video lecture on Lynda
+- Bootstrap 4.0.0 (assist styling)
 
 ### Solution produced for the following requirement
 The Computer Gaming Society has a collection of CDs, DVDs and cartridges containing computer games for a range of platforms, including current and older gaming consoles. They rent these games to members of the society for a limited period (currently up to 3 weeks). Members can only be renting a limited number of games at any one time (currently 2). Members can ask for a limited number of 1-week extensions (currently no more than two 1-week extensions are allowed). Members who violate these rules and do not return games on time repeatedly (currently, on three occasions within a 12 month period), will be banned from renting games for a fixed period (currently 6 months). Members are expected to take good care of the games they are renting. If a game is returned damaged (e.g. a CD/DVD is scratched and no longer readable), the member is expected to refund the value of the game to the society and will not be allowed to rent games until they do so.
