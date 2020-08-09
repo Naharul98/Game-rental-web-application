@@ -1,6 +1,6 @@
 # Game-rental-web-application
 
-## Website URL and Staff Area Login
+### Website URL and Staff Area Login
 - Website URL Link for demonstration - http://seg-2018-cardinal.dx.am/public/game_area/pages/home.php
 
 ### Staff Area Login Credentials for testing
