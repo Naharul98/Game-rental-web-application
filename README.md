@@ -3,12 +3,22 @@
 ## Website URL and Staff Area Login
 - Website URL Link for demonstration - http://seg-2018-cardinal.dx.am/public/game_area/pages/home.php
 
-### Staff Area Login Credentials
+### Staff Area Login Credentials for testing
 - Secretary = Username - naharul, Password - 123456789
 - Volunteer = Username - eugene, Password - 123456789
 
 ### Resources and Frameworks Used
 - Bootstrap 4.0.0 (assist styling)
+
+### Features
+- People are able to browse available games for rental on the website and get accquainted with rental rules.
+- From the administration site, staff users are able to do the following:
+    - Add new games for rental and amend/delete existing ones.
+    - View reports providing useful information about the business, such as outstanding fees, overdue items.
+    - Amend and enforce rules with regards to rentals on the website
+    - Add/amend/delete member and also ban members who have broken rules.
+    - Add/amend/delete staff users of the application
+- Volunteers of the business can only perform limited actions in the administration site, whereas, secretaries have full access to the administration site.
 
 ### Solution produced for the following requirement
 The Computer Gaming Society has a collection of CDs, DVDs and cartridges containing computer games for a range of platforms, including current and older gaming consoles. They rent these games to members of the society for a limited period (currently up to 3 weeks). Members can only be renting a limited number of games at any one time (currently 2). Members can ask for a limited number of 1-week extensions (currently no more than two 1-week extensions are allowed). Members who violate these rules and do not return games on time repeatedly (currently, on three occasions within a 12 month period), will be banned from renting games for a fixed period (currently 6 months). Members are expected to take good care of the games they are renting. If a game is returned damaged (e.g. a CD/DVD is scratched and no longer readable), the member is expected to refund the value of the game to the society and will not be allowed to rent games until they do so.
